@@ -5,6 +5,7 @@ A full-featured Framework7 + Vue + Webpack setup with hot-reload & css extractio
 ## Build Setup
 
 ``` bash
+git clone https://github.com/yuxxer/Framework7-Vue-Webpack-Template my-app
 # install dependencies
 npm install
 
